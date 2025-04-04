@@ -15,5 +15,9 @@
       "dom.iterable",
       "scripthost"
     ]
-  }
+  },
+  "exclude": [
+    "src/components/PropertyForm.vue",
+    "src/components/PropertyList.vue"
+  ]
 }
